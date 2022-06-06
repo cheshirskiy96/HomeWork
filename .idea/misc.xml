@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_blur_background.xml" value="0.2435" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_blur_background__1_.xml" value="0.2435" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_bubbles.xml" value="0.1635" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_bubblesscreen2.xml" value="0.248" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_bubblesscreen4.xml" value="0.2435" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_bubblesscreen5.xml" value="0.2435" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_bubblesscreen6.xml" value="0.2435" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/drawable/ic_bubblesscreen7.xml" value="0.2435" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/activity_screen2.xml" value="0.21784420289855072" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/activity_screen21.xml" value="0.40399652476107734" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/activity_screen4.xml" value="0.30293159609120524" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/activity_screen5.xml" value="0.536" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/activity_screen6.xml" value="0.4" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/activity_screen7.xml" value="0.40399652476107734" />
+        <entry key="..\:/kotlin/HW17/app/src/main/res/layout/screen3.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/screen4.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
